@@ -8,4 +8,4 @@ This repo has some major implementations in Crypto using Julia.
 
 3) BGW.jl - Ben-Or - Goldwasser-Wigderson Scheme (uses Shamir's SS to distribute the inputs to all parties) [WIP]
 
-4) FV.jl - Fan-Vercauteren Homomorphic Encryption Scheme (FVHE)
+4) FV.jl - Fan-Vercauteren Homomorphic Encryption Scheme (FVHE) [WIP]
