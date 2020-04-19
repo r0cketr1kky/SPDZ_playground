@@ -1,6 +1,6 @@
 # SPDZ_playground
 
-This repo has some major implementations in Crypto using Julia. Slowly advancing to SPDZ...
+This repo has some major implementations in Crypto using Julia. Advancing to SPDZ step-by-step...
 
 1) SHAMIR.jl - Shamir's Secret Sharing Scheme
 
