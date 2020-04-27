@@ -3,7 +3,7 @@
 This repo has some major implementations in Crypto using Julia. Advancing to SPDZ step-by-step...
 
 1) ### SHAMIR.jl
-Shamir's Secret Sharing Scheme (Done...Have a look at Shamir.jl in the Julia General Registry!!! ) 
+Shamir's Secret Sharing Scheme (Done...Have a look at Shamir.jl in the Julia General Registry or you can check it out on my Github profile!!! ) 
 
 2) ### GMW.jl 
 Goldreich-Micali-Wigderson Scheme (uses 1-out-of-2 Oblivious Transfer for 2 parties) (Yet to package it)
